@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Group27_InClass07</string>
+    <string name="start_trivia">Start Trivia</string>
+    <string name="trivia_logo">Trivia Logo</string>
+    <string name="loading_trivia">Loading Trivia</string>
+    <string name="welcome_to_trivia_app">Welcome to Trivia App</string>
+    <string name="exit">Exit</string>
+    <string name="trivia_ready">Trivia ready</string>
+    <string name="next">Next</string>
+    <string name="quit">Quit</string>
+    <string name="image_for_question">image_for_question</string>
+</resources>
